@@ -69,7 +69,7 @@ function App() {
     "01n": clearIcon,
     "02d": cloudyIcon,
     "02n": cloudyIcon,
-    "03n": drizzleIcon,
+    "03d": drizzleIcon,
     "03n": drizzleIcon,
     "04d": drizzleIcon,
     "04n": drizzleIcon,
